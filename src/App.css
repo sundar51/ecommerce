@@ -35,3 +35,9 @@ body{
     font-size: 1.2rem;
     color: var(--mainYellow);
 }
+.footer{
+    border-top: 1px solid #D8D8D7;
+    padding: 30px;
+    text-align: center;
+    color: #1a4b79;
+}

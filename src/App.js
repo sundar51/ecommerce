@@ -20,6 +20,9 @@ export default class App extends Component {
        <Route component={Default} />
      </Switch>
      <Modal />
+     <div className="footer">
+      Developed by Sundar Shrestha (sundarshrestha86@gmail.com)
+     </div>
    </React.Fragment>
     );
   }
